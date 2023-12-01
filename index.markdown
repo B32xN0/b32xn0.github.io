@@ -12,38 +12,38 @@ TODO RANRAC
 
 <h1>Curriculum Vitae</h1>
 <h2>Professional Experience</h2>
-<hgroup>
-<h4>PhD Candidate</h4>
+<section>
+<b>PhD Candidate</b><br>
 Sep 2023 - Present<br>
 Computer Graphics Group at TU Delft
-</hgroup>
+</section>
 
-<hgroup>
-<h4>Research Associate</h4>
+<section>
+<b>Research Associate</b><br>
 Jul 2023<br>
 Cognitive Computer Vision Group at FAU
-</hgroup>
+</section>
 
-<hgroup>
-<h4>Software Engineer (Student Trainee)</h4>
+<section>
+<b>Software Engineer (Student Trainee)</b><br>
 Aug 2016 - Mar 2021<br>
 Automotive Software Development at e.solutions GmbH
-</hgroup>
+</section>
 
 <h2>Education</h2>
-<hgroup>
-<h4>PhD Computer Vision</h4>
+<section>
+<b>PhD Computer Vision</b><br>
 Delft University of Technology (TU Delft) - Ongoing
-</hgroup>
+</section>
 
-<hgroup>
-<h4>MSc Computer Science</h4>
+<section>
+<b>MSc Computer Science</b><br>
 Friedrich-Alexander-University Erlangen-Nurnberg (FAU) - 2023
-</hgroup>
+</section>
 
-<hgroup>
-<h4>BSc Information Systems</h4>
+<section>
+<b>BSc Information Systems</b><br>
 Friedrich-Alexander-University Erlangen-Nurnberg (FAU) - 2021
-</hgroup>
+</section>
 
 
