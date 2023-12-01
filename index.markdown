@@ -9,9 +9,7 @@ permalink: "index.html"
 <h1>Recent Publications</h1>
 TODO RANRAC
 
-
-<h1>Curriculum Vitae</h1>
-<h2>Professional Experience</h2>
+<h1>Professional Experience</h1>
 <section>
 <b>PhD Candidate</b><br>
 Sep 2023 - Present<br>
@@ -30,7 +28,7 @@ Aug 2016 - Mar 2021<br>
 Automotive Software Development at e.solutions GmbH
 </section>
 
-<h2>Education</h2>
+<h1>Education</h1>
 <section>
 <b>PhD Computer Vision</b><br>
 Delft University of Technology (TU Delft) - Ongoing
