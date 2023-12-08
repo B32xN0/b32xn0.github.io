@@ -7,19 +7,19 @@ permalink: "index.html"
 
 ---
 <h1>Recent Publications</h1>
-TODO RANRAC
+RANRAC
 
 <h1>Professional Experience</h1>
 <section>
 <b>PhD Candidate</b><br>
 Sep 2023 - Present<br>
-Computer Graphics Group at TU Delft
+Chair of Computer Graphics and Visualization at TU Delft
 </section>
 
 <section>
 <b>Research Associate</b><br>
 Jul 2023<br>
-Cognitive Computer Vision Group at FAU
+Cognitive Computer Vision Group, Chair of Computer Graphics at FAU
 </section>
 
 <section>
@@ -30,7 +30,7 @@ Automotive Software Development at e.solutions GmbH
 
 <h1>Education</h1>
 <section>
-<b>PhD Computer Vision</b><br>
+<b>PhD Computer Vision and Computer Graphics</b><br>
 Delft University of Technology (TU Delft) - Ongoing
 </section>
 
