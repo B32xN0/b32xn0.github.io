@@ -6,7 +6,7 @@
 //.page-header {
 //  height: fit-content;
 //}
-//.page-header { color: #fff; text-align: left; background-color: #159957; background-image: linear-gradient(120deg, #155799, #159957); }
+.page-header {background-color: #155799; background-image: linear-gradient(120deg, #155799, #15998a); }
 //@media screen and (min-width: 64em) { .page-header { padding: 5rem 6rem; } }
 //@media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 3rem 4rem; } }
 //@media screen and (max-width: 42em) { .page-header { padding: 2rem 1rem; } }
@@ -21,6 +21,8 @@
 //@media screen and (min-width: 42em) and (max-width: 64em) { .project-tagline { font-size: 1.15rem; } }
 //@media screen and (max-width: 42em) { .project-tagline { font-size: 1rem; } }
 
-.page-header{text-align: left; height: fit-content}
-.page-header-text{width: fit-content; height: fit-content;}
+.page-header{text-align: left; height: fit-content; padding-top: 2em; padding-left: 2em; padding-bottom: 1em; padding-right: 30em}
+.page-header-text{width: fit-content; height: fit-content; margin: 0; padding: 0}
 .page-header-image{width: fit-content; height: fit-content; float: left; padding-right: 3em;}
+.main-content{padding-top: 2em; padding-left: 0em;}
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 1.5rem; margin-bottom: 0.5rem; font-weight: normal; color: #1567b6; }
