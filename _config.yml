@@ -21,9 +21,9 @@
 title: Benno Buschmann
 email: b.buschmann@tudelft.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I'm a PhD Candidate at the Chair of Computer Graphics and Visualization of TU Delft (Netherlands).
+  Hi, I'm a PhD Candidate at the Chair of Computer Graphics and Visualization at TU Delft (Netherlands).
   My research interests are on 3D reconstruction, neural fields, differentiable rendering, and multi-modal inference.
-  Before joining TU Delft, I studied and researched at FAU Erlangen-Nürnberg, and gained industry experience in automotive software engineering.
+  Before joining TU Delft, I studied and researched at FAU Erlangen-Nürnberg (Germany), and gained industry experience in automotive software engineering.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://bennobuschmann.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
