@@ -7,7 +7,7 @@ permalink: "index.html"
 
 ---
 <h1>Recent Publications</h1>
-RANRAC
+<a href="./ranrac">RANRAC</a>
 
 <h1>Professional Experience</h1>
 <section>
