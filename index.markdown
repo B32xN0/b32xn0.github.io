@@ -7,7 +7,13 @@ permalink: "index.html"
 
 ---
 <h1>Recent Publications</h1>
-<a href="./ranrac">RANRAC</a>
+<div>
+<a href="./ranrac">
+<b>RANRAC</b>: Robust Neural Scene Representations via Random Ray Consensus
+<br>
+<img src="/assets/img/TeaserFigure.png" style="height: 150px">
+</a>
+</div>
 
 <h1>Professional Experience</h1>
 <section>
